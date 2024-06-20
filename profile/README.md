@@ -47,6 +47,6 @@ automech run &> out.log &
 [^1]: For Conda/Mamba, you can add this channel using `conda config --append channels auto-mech`.
 For Pixi, you can use `pixi project channel add auto-mech`.
 
-[^2]: For Pixi, `conda-forge` is automatically the default channel. For Conda/Mamba, you may need
-to set this configuration using `conda config --prepend channels conda-forge`.
+[^2]: For Pixi, `conda-forge` is automatically the default channel. For Conda/Mamba, unless installed through
+the Miniforge distribution, you will need to set this configuration using `conda config --prepend channels conda-forge`.
 
