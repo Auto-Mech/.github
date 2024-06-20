@@ -22,7 +22,10 @@ to get set up.
 
 ## Install
 
-End-users who do not wish to contribute can install the code using Conda, Mamba, or Pixi.
+End-users who do not wish to contribute can install the code using
+[Conda](https://docs.anaconda.com/miniconda/#quick-command-line-install),
+[Mamba](https://github.com/conda-forge/miniforge?tab=readme-ov-file#install), or
+[Pixi](https://pixi.sh/latest/#installation).
 After adding `auto-mech` to your channels[^1] and making sure that `conda-forge` is your default channel,[^2]
 the code can be installed as follows:
 ```
