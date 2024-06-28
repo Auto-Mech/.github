@@ -14,7 +14,7 @@ It consists of a hierarchy of five modules:
 ## Contribute
 
 The AutoMech code is in development, so we encourage users to install it in developer mode and send us bug reports,
-or even submit pull requests they are comfortable.
+or submit pull requests they are comfortable.
 To install the code in developer mode, clone the [amech-dev](https://github.com/avcopan/amech-dev) repository
 and follow the instructions in the [README](https://github.com/avcopan/amech-dev?tab=readme-ov-file#automech-developer-set-up)
 to get set up.
