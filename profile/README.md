@@ -36,7 +36,7 @@ pixi add automech      # option 3
 
 ## Use
 
-To learn how to run the code, you can get started with the `simple` example
+To learn how to run the code, you can get started with the `quick` example
 [here](https://github.com/Auto-Mech/mechdriver/tree/dev/examples) before moving on to more advanced examples.
 To run the code, make sure you have the desired electronic structure packages in your path, then enter one of
 the example directories and run the following command:
