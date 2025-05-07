@@ -20,19 +20,20 @@ and follow the instructions in the [README](https://github.com/Auto-Mech/amech-d
 to get set up.
 
 
-## Install
+## ~~Install~~
 
-End-users who do not wish to contribute can install the code using
+~~End-users who do not wish to contribute can install the code using
 [Conda](https://docs.anaconda.com/miniconda/#quick-command-line-install),
 [Mamba](https://github.com/conda-forge/miniforge?tab=readme-ov-file#install), or
 [Pixi](https://pixi.sh/latest/#installation).
 After adding `auto-mech` to your channels[^1] and making sure that `conda-forge` is your default channel,[^2]
-the code can be installed as follows:
+the code can be installed as follows:~~
 ```
 conda install automech # option 1
 mamba install automech # option 2
 pixi add automech      # option 3
 ```
+*For now, please install in developer mode from the [amech-dev](https://github.com/Auto-Mech/amech-dev) repository.*
 
 ## Use
 
