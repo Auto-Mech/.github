@@ -21,10 +21,9 @@ or submit pull requests they are comfortable.
 To install the code in developer mode, fork and clone the [MechDriver](https://github.com/Auto-Mech/mechdriver) repository
 and follow the instructions in its [README](https://github.com/Auto-Mech/mechdriver?tab=readme-ov-file#install).
 
-~~End-users who do not wish to contribute can install the code using
-[Conda](https://docs.anaconda.com/miniconda/#quick-command-line-install),
+Direct installation through [Conda](https://docs.anaconda.com/miniconda/#quick-command-line-install),
 [Mamba](https://github.com/conda-forge/miniforge?tab=readme-ov-file#install), or
-[Pixi](https://pixi.sh/latest/#installation).~~
+[Pixi](https://pixi.sh/latest/#installation) should be coming relatively soon...
 
 ## Use
 
